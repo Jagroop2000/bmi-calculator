@@ -11,20 +11,7 @@ function App() {
       
     <Card className='card-style'>
       <p className='text'>Fill Below Details :</p>
-      <Form>
-  <Form.Group className="mb-3" controlId="formBasicEmail">
-    <Form.Label>Enter Your Height (CM) :</Form.Label>
-    <Form.Control type="email" placeholder="Enter email" />
-  </Form.Group>
-
-  <Form.Group className="mb-3" controlId="formBasicPassword">
-    <Form.Label>Enter Your Weight (KG)</Form.Label>
-    <Form.Control type="password" placeholder="Password" />
-  </Form.Group>
-  <Button variant="primary" type="submit">
-    Submit
-  </Button>
-   </Form>
+   
     </Card>
      
     </div>
